@@ -1,13 +1,13 @@
 {
-  "heading": "Kdaj mladi Evropejci odletijo v gnezdo?",
-  "subheading": "Leta 2022 so mladi v EU v povprečju zapustili starševski dom pri 26,4 leta. Vendar se je to povprečje med državami EU razlikovalo.",
-  "legend1": "Ni podatkov",
-  "tooltip1": "leta starosti",
+  "heading": "Kdaj mladi Evropejci odletijo iz gnezda?",
+  "subheading": "Leta 2022 so mladi v EU v povprečju zapustili starševski dom pri 26,4 letih. Vendar se je to povprečje med državami EU razlikovalo.",
+  "legend1": "Ni na voljo podatkov",
+  "tooltip1": "let starosti",
   "textSourceDescription": "Vir",
   "textSource": "Eurostat",
   "textNoteDescription": "Opomba",
   "textNote": "",
-  "textDataAccess": "Dostopajte do podatkov",
+  "textDataAccess": "Dostop do podatkov",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/YTH_DEMO_030__custom_7245840/bookmark/table?lang=en&bookmarkId=8187eeda-6c5b-48fc-ba39-4e8cf6eee71b",
   "textCountryClick": "Kliknite za več informacij"
 }

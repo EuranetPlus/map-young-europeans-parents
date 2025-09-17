@@ -1,13 +1,13 @@
 {
-  "heading": "Mikor repítik a fészket a fiatal európaiak?",
-  "subheading": "2022-ben a fiatalok EU-szerte átlagosan 26,4 évesen hagyták el szülői házukat. Ez az átlag azonban eltérő volt az EU-országok között.",
-  "legend1": "Nincs elérhető adat",
-  "tooltip1": "éves korig",
+  "heading": "Mikor repülnek ki a fészekből a fiatal európaiak?",
+  "subheading": "2022-ben az EU-ban a fiatalok átlagosan 26,4 éves korukban hagyták el szülői házukat. Ez az átlag azonban az EU-országok között eltérő volt.",
+  "legend1": "Nincsenek elérhető adatok",
+  "tooltip1": "éves kor",
   "textSourceDescription": "Forrás",
   "textSource": "Eurostat",
-  "textNoteDescription": "jegyzet",
+  "textNoteDescription": "Jegyzet",
   "textNote": "",
   "textDataAccess": "Hozzáférés az adatokhoz",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/YTH_DEMO_030__custom_7245840/bookmark/table?lang=en&bookmarkId=8187eeda-6c5b-48fc-ba39-4e8cf6eee71b",
-  "textCountryClick": "További információért kattintson"
+  "textCountryClick": "Kattintson a további információkért"
 }

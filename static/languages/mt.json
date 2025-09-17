@@ -1,13 +1,13 @@
 {
-  "heading": "Iż-żgħażagħ Ewropej meta jtajru l-bejta?",
-  "subheading": "Fl-2022, iż-żgħażagħ madwar l-UE ħallew id-dar tal-ġenituri tagħhom bħala medja fl-età ta' 26.4 sena. Madankollu, din il-medja varjat fost il-pajjiżi tal-UE.",
-  "legend1": "Ebda data disponibbli",
-  "tooltip1": "snin",
+  "heading": "Meta jtiru l-bejta ż-żgħar Ewropej?",
+  "subheading": "Fl-2022, iż-żgħażagħ madwar l-UE telqu mid-dar tal-ġenituri tagħhom bħala medja fl-età ta’ 26.4 sena. Madankollu, din il-medja varjat fost il-pajjiżi tal-UE.",
+  "legend1": "L-ebda dejta disponibbli",
+  "tooltip1": "snin ta' età",
   "textSourceDescription": "Sors",
-  "textSource": "Eurostat",
+  "textSource": "L-Eurostat",
   "textNoteDescription": "Nota",
   "textNote": "",
-  "textDataAccess": "Aċċessa għad-data",
+  "textDataAccess": "Aċċessa d-dejta",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/YTH_DEMO_030__custom_7245840/bookmark/table?lang=en&bookmarkId=8187eeda-6c5b-48fc-ba39-4e8cf6eee71b",
-  "textCountryClick": "Ikklikkja għal aktar informazzjoni"
+  "textCountryClick": "Ikklikkja għal aktar tagħrif"
 }

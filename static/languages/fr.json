@@ -1,13 +1,13 @@
 {
   "heading": "Quand les jeunes Européens quittent-ils le nid ?",
-  "subheading": "En 2022, les jeunes de l’UE ont quitté le domicile parental en moyenne à l’âge de 26,4 ans. Toutefois, cette moyenne variait selon les pays de l'UE.",
-  "legend1": "Pas de données disponibles",
+  "subheading": "En 2022, les jeunes de l'UE ont quitté le domicile parental à l'âge moyen de 26,4 ans. Cependant, cette moyenne varie selon les pays de l'UE.",
+  "legend1": "Aucune donnée disponible",
   "tooltip1": "ans",
   "textSourceDescription": "Source",
   "textSource": "Eurostat",
   "textNoteDescription": "Note",
   "textNote": "",
   "textDataAccess": "Accéder aux données",
-  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/YTH_DEMO_030__custom_7245840/bookmark/table?lang=en&bookmarkId=8187eeda-6c5b-48fc-ba39-4e8cf6eee71b",
+  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/YTH_DEMO_030__custom_7245840/bookmark/table?lang=fr&bookmarkId=8187eeda-6c5b-48fc-ba39-4e8cf6eee71b",
   "textCountryClick": "Cliquez pour plus d'informations"
 }

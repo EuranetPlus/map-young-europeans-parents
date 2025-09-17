@@ -1,6 +1,6 @@
 {
-  "heading": "Quando i giovani europei volano nel nido?",
-  "subheading": "Nel 2022, i giovani in tutta l’UE hanno lasciato la casa dei genitori in media all’età di 26,4 anni. Tuttavia, questa media varia tra i paesi dell’UE.",
+  "heading": "Quando i giovani europei lasciano il nido?",
+  "subheading": "Nel 2022, i giovani in tutta l'UE hanno lasciato la casa dei genitori in media all'età di 26,4 anni. Tuttavia, questa media varia da paese a paese.",
   "legend1": "Nessun dato disponibile",
   "tooltip1": "anni di età",
   "textSourceDescription": "Fonte",
@@ -8,6 +8,6 @@
   "textNoteDescription": "Nota",
   "textNote": "",
   "textDataAccess": "Accedi ai dati",
-  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/YTH_DEMO_030__custom_7245840/bookmark/table?lang=en&bookmarkId=8187eeda-6c5b-48fc-ba39-4e8cf6eee71b",
-  "textCountryClick": "Fare clic per maggiori informazioni"
+  "linkDataAccess": "Italiano: https://ec.europa.eu/eurostat/databrowser/view/YTH_DEMO_030__custom_7245840/bookmark/table?lang=en&bookmarkId=8187eeda-6c5b-48fc-ba39-4e8cf6eee71b",
+  "textCountryClick": "Clicca per maggiori informazioni"
 }

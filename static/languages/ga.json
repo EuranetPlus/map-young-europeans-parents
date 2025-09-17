@@ -1,13 +1,13 @@
 {
-  "heading": "Cathain a eitlíonn Eorpaigh óga an nead?",
-  "subheading": "In 2022, d’fhág daoine óga ar fud an AE teach a dtuismitheoirí ar an meán agus iad 26.4 bliana d’aois. Mar sin féin, bhí an meán seo éagsúil i measc thíortha an AE.",
+  "heading": "Cathain a fhágann Eorpacha óga an nead?",
+  "subheading": "Sa bhliain 2022, d’fhág daoine óga ar fud an AE a dteach tuismitheoirí ag aois 26.4 bliana ar an meán. Mar sin féin, bhí éagsúlacht sa mheán seo i measc thíortha an AE.",
   "legend1": "Níl aon sonraí ar fáil",
   "tooltip1": "bliain d'aois",
   "textSourceDescription": "Foinse",
   "textSource": "Eurostat",
   "textNoteDescription": "Nóta",
   "textNote": "",
-  "textDataAccess": "Faigh rochtain ar na sonraí",
+  "textDataAccess": "Rochtain ar na sonraí",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/YTH_DEMO_030__custom_7245840/bookmark/table?lang=en&bookmarkId=8187eeda-6c5b-48fc-ba39-4e8cf6eee71b",
   "textCountryClick": "Cliceáil le haghaidh tuilleadh eolais"
 }

@@ -1,13 +1,13 @@
 {
   "heading": "¿Cuándo abandonan el nido los jóvenes europeos?",
-  "subheading": "En 2022, los jóvenes de toda la UE abandonaron el hogar de sus padres a una edad media de 26,4 años. Sin embargo, este promedio varió entre los países de la UE.",
-  "legend1": "Datos no disponibles",
+  "subheading": "En 2022, los jóvenes de toda la UE abandonaron el hogar paterno a la edad media de 26,4 años. Sin embargo, esta media varió entre los países de la UE.",
+  "legend1": "No hay datos disponibles",
   "tooltip1": "años de edad",
   "textSourceDescription": "Fuente",
   "textSource": "Eurostat",
   "textNoteDescription": "Nota",
   "textNote": "",
-  "textDataAccess": "Accede a los datos",
-  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/YTH_DEMO_030__custom_7245840/bookmark/table?lang=en&bookmarkId=8187eeda-6c5b-48fc-ba39-4e8cf6eee71b",
+  "textDataAccess": "Acceder a los datos",
+  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/YTH_DEMO_030__custom_7245840/bookmark/table?lang=es&bookmarkId=8187eeda-6c5b-48fc-ba39-4e8cf6eee71b",
   "textCountryClick": "Haga clic para más información"
 }

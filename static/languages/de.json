@@ -1,13 +1,13 @@
 {
-  "heading": "Wann fliegen junge Europäer aus dem Nest?",
-  "subheading": "Im Jahr 2022 verließen junge Menschen in der gesamten EU ihr Elternhaus im Durchschnitt im Alter von 26,4 Jahren. Allerdings schwankte dieser Durchschnitt zwischen den EU-Ländern.",
+  "heading": "Wann verlassen junge Europäer das Nest?",
+  "subheading": "Im Jahr 2022 verließen junge Menschen in der EU im Durchschnitt im Alter von 26,4 Jahren ihr Elternhaus. Dieser Durchschnitt variierte jedoch zwischen den EU-Ländern.",
   "legend1": "Keine Daten verfügbar",
-  "tooltip1": "Alter",
+  "tooltip1": "Jahre alt",
   "textSourceDescription": "Quelle",
   "textSource": "Eurostat",
   "textNoteDescription": "Notiz",
   "textNote": "",
-  "textDataAccess": "Greifen Sie auf die Daten zu",
+  "textDataAccess": "Zugriff auf die Daten",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/YTH_DEMO_030__custom_7245840/bookmark/table?lang=en&bookmarkId=8187eeda-6c5b-48fc-ba39-4e8cf6eee71b",
-  "textCountryClick": "Klicken Sie für weitere Informationen"
+  "textCountryClick": "Klicken Sie hier für weitere Informationen"
 }

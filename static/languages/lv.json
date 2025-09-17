@@ -1,7 +1,7 @@
 {
-  "heading": "Kad jaunie eiropieši izlido ligzdu?",
-  "subheading": "2022. gadā jaunieši visā ES pameta savu vecāku māju vidēji 26,4 gadu vecumā. Tomēr šis vidējais rādītājs dažādās ES valstīs bija atšķirīgs.",
-  "legend1": "Nav pieejami dati",
+  "heading": "Kad jaunie eiropieši izlido no ligzdas?",
+  "subheading": "2022. gadā jaunieši visā ES pameta vecāku mājas vidēji 26,4 gadu vecumā. Tomēr šis vidējais rādītājs dažādās ES valstīs atšķīrās.",
+  "legend1": "Dati nav pieejami",
   "tooltip1": "gadu vecumā",
   "textSourceDescription": "Avots",
   "textSource": "Eurostat",
@@ -9,5 +9,5 @@
   "textNote": "",
   "textDataAccess": "Piekļūstiet datiem",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/YTH_DEMO_030__custom_7245840/bookmark/table?lang=en&bookmarkId=8187eeda-6c5b-48fc-ba39-4e8cf6eee71b",
-  "textCountryClick": "Noklikšķiniet, lai iegūtu vairāk informācijas"
+  "textCountryClick": "Noklikšķiniet, lai iegūtu plašāku informāciju"
 }

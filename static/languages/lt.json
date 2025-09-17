@@ -1,13 +1,13 @@
 {
-  "heading": "Kada jaunieji europiečiai skraido lizdą?",
-  "subheading": "2022 m. jaunuoliai visoje ES paliko savo tėvų namus vidutiniškai būdami 26,4 metų amžiaus. Tačiau šis vidurkis įvairiose ES šalyse skyrėsi.",
+  "heading": "Kada jauni europiečiai išskrenda iš lizdo?",
+  "subheading": "2022 m. jauni žmonės visoje ES paliko tėvų namus vidutiniškai būdami 26,4 metų amžiaus. Tačiau šis vidurkis skirtingose ES šalyse skyrėsi.",
   "legend1": "Nėra duomenų",
   "tooltip1": "metų amžiaus",
   "textSourceDescription": "Šaltinis",
   "textSource": "Eurostatas",
   "textNoteDescription": "Pastaba",
   "textNote": "",
-  "textDataAccess": "Pasiekite duomenis",
+  "textDataAccess": "Prieiga prie duomenų",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/YTH_DEMO_030__custom_7245840/bookmark/table?lang=en&bookmarkId=8187eeda-6c5b-48fc-ba39-4e8cf6eee71b",
   "textCountryClick": "Spustelėkite norėdami gauti daugiau informacijos"
 }

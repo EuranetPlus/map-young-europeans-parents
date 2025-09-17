@@ -1,13 +1,13 @@
 {
-  "heading": "Când zboară tinerii europeni în cuib?",
-  "subheading": "În 2022, tinerii din UE și-au părăsit casa părintească în medie la vârsta de 26,4 ani. Cu toate acestea, această medie a variat între țările UE.",
-  "legend1": "Nici o informatie disponibila",
+  "heading": "Când zboară tinerii europeni din cuib?",
+  "subheading": "În 2022, tinerii din UE au părăsit casa părintească în medie la vârsta de 26,4 ani. Cu toate acestea, această medie a variat între țările UE.",
+  "legend1": "Nu sunt disponibile date",
   "tooltip1": "ani de vârstă",
   "textSourceDescription": "Sursă",
   "textSource": "Eurostat",
-  "textNoteDescription": "Notă",
+  "textNoteDescription": "Nota",
   "textNote": "",
   "textDataAccess": "Accesați datele",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/YTH_DEMO_030__custom_7245840/bookmark/table?lang=en&bookmarkId=8187eeda-6c5b-48fc-ba39-4e8cf6eee71b",
-  "textCountryClick": "Click pentru mai multe informații"
+  "textCountryClick": "Faceți clic pentru mai multe informații"
 }

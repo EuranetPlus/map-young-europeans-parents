@@ -1,13 +1,13 @@
 {
-  "heading": "Milloin nuoret eurooppalaiset lentävät pesän?",
-  "subheading": "Vuonna 2022 nuoret eri puolilla EU:ta jättivät vanhempiensa kodin keskimäärin 26,4-vuotiaana. Tämä keskiarvo vaihteli kuitenkin EU-maiden välillä.",
-  "legend1": "Tietoja ei ole saatavilla",
-  "tooltip1": "vuoden iässä",
+  "heading": "Milloin nuoret eurooppalaiset lentävät pesästä?",
+  "subheading": "Vuonna 2022 nuoret EU:ssa muuttivat pois vanhempiensa kodista keskimäärin 26,4 vuoden iässä. Tämä keskiarvo kuitenkin vaihteli EU-maiden välillä.",
+  "legend1": "Ei tietoja saatavilla",
+  "tooltip1": "vuotta ikäinen",
   "textSourceDescription": "Lähde",
   "textSource": "Eurostat",
   "textNoteDescription": "Huomautus",
   "textNote": "",
   "textDataAccess": "Käytä tietoja",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/YTH_DEMO_030__custom_7245840/bookmark/table?lang=en&bookmarkId=8187eeda-6c5b-48fc-ba39-4e8cf6eee71b",
-  "textCountryClick": "Napsauta saadaksesi lisätietoja"
+  "textCountryClick": "Klikkaa saadaksesi lisätietoja"
 }

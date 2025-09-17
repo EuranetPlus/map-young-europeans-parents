@@ -1,13 +1,13 @@
 {
   "heading": "Hvornår flyver unge europæere reden?",
-  "subheading": "I 2022 forlod unge mennesker i hele EU deres forældrehjem i gennemsnit i en alder af 26,4 år. Dette gennemsnit varierede dog mellem EU-landene.",
-  "legend1": "Ingen tilgængelig data",
-  "tooltip1": "års alderen",
+  "subheading": "I 2022 forlod unge mennesker i EU i gennemsnit deres forældrehjem i en alder af 26,4 år. Dette gennemsnit varierede dog mellem EU-landene.",
+  "legend1": "Ingen data tilgængelige",
+  "tooltip1": "år gammel",
   "textSourceDescription": "Kilde",
   "textSource": "Eurostat",
-  "textNoteDescription": "Bemærk",
+  "textNoteDescription": "Note",
   "textNote": "",
-  "textDataAccess": "Få adgang til data",
+  "textDataAccess": "Få adgang til dataene",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/YTH_DEMO_030__custom_7245840/bookmark/table?lang=en&bookmarkId=8187eeda-6c5b-48fc-ba39-4e8cf6eee71b",
-  "textCountryClick": "Klik for mere info"
+  "textCountryClick": "Klik for mere information"
 }
